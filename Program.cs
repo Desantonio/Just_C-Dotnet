@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 using System.Globalization;
+using System.Net.Security;
 
 class Program
 {
@@ -32,5 +33,8 @@ class Program
         double value = 0.99;
         double cos = Math.Asin(value);
         Console.WriteLine(cos);
+        Console.Write("Enter a number: ");
+        double number = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine(number);
     }
 }
