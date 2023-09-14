@@ -9,5 +9,12 @@ class Program
         Console.WriteLine("Hello, World!");
         var a = 50;
         Console.WriteLine(a);
+        Console.Write("Write your name here: ");
+        string input = Console.ReadLine();
+        Console.WriteLine($"Hello, {input}!");
+        Console.Write("Enter the value of x: ");
+        double x = Convert.ToDouble(Console.ReadLine());
+        double result = Math.Sin(x);
+        Console.WriteLine($"The value of sin{x} is: " + result);
     }
 }
