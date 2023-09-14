@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.Globalization;
 
 class Program
 {
@@ -16,5 +17,20 @@ class Program
         double x = Convert.ToDouble(Console.ReadLine());
         double result = Math.Sin(x);
         Console.WriteLine($"The value of sin{x} is: " + result);
+        int b = 40;
+        if (b > 40) {
+            Console.WriteLine("Yes");
+        }
+        else {
+            Console.WriteLine("No");
+        }
+        int[] array = {1, 2, 3, 4, 5, 6};
+        Console.WriteLine(array[0]);
+        foreach (int num in array) {
+            Console.WriteLine(num);
+        }
+        double value = 0.99;
+        double cos = Math.Asin(value);
+        Console.WriteLine(cos);
     }
 }
