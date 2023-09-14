@@ -1,0 +1,14 @@
+/Users/vatsalgayakwad/Documents/Dotnet_C#/bin/Debug/net7.0/Dotnet_C#
+/Users/vatsalgayakwad/Documents/Dotnet_C#/bin/Debug/net7.0/Dotnet_C#.deps.json
+/Users/vatsalgayakwad/Documents/Dotnet_C#/bin/Debug/net7.0/Dotnet_C#.runtimeconfig.json
+/Users/vatsalgayakwad/Documents/Dotnet_C#/bin/Debug/net7.0/Dotnet_C#.dll
+/Users/vatsalgayakwad/Documents/Dotnet_C#/bin/Debug/net7.0/Dotnet_C#.pdb
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/Dotnet_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/Dotnet_C#.AssemblyInfoInputs.cache
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/Dotnet_C#.AssemblyInfo.cs
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/Dotnet_C#.csproj.CoreCompileInputs.cache
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/Dotnet_C#.dll
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/refint/Dotnet_C#.dll
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/Dotnet_C#.pdb
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/Dotnet_C#.genruntimeconfig.cache
+/Users/vatsalgayakwad/Documents/Dotnet_C#/obj/Debug/net7.0/ref/Dotnet_C#.dll
